@@ -13,4 +13,4 @@ Funcionalidades
 Tecnologías
 - Python
 - GitHub
-- Programación Orientada a Objetos
+- Programación Orientada a Objetos 
