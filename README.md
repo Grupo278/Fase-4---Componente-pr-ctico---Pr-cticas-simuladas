@@ -8,7 +8,7 @@ Funcionalidades
 - Gestión de servicios
 - Reservas
 - Manejo de excepciones
-- Archivo de logs
+- Archivo de logs 
 
 Tecnologías
 - Python
